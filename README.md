@@ -38,12 +38,7 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=syamsulapp&show_icons=true&hide_border=true" />
-
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamsulapp)](https://github.com/syamsulapp/github-readme-stats)
 
 [website]: https://greentech.id
 [instagram]: https://www.instagram.com/samsul.marif100/
