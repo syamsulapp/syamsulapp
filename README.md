@@ -1,9 +1,8 @@
 ### Hi there, I'm Muhammad Syamsul Marif[syamsulapp][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://greentech.id)
-[![Instagram Follow](https://www.instagram.com/samsul.marif100/?hl=id)](https://www.instagram.com/samsul.marif100/)
+[![Website](https://img.shields.io/website?label=syamsulapp.com&style=for-the-badge&url=https%3A%2F%2Fgreentech.id)](https://greentech.id)
 
-##  I'am Full Stack Developer , Software Enginer , Web Programmer , 
+##  I'am Full Stack Developer , Software Engineer , Web Programmer , 
 
 - 🔭 I just launched my first course: Dicoding And W3schols
 - 👯 My Job in greentech studio and make relational job with other people
@@ -16,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools Yang Di Gunakan:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,5 +46,4 @@
 </details>
 
 [website]: https://greentech.id
-[facebook]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/samsul.marif100/
