@@ -45,12 +45,11 @@
 
 ### My Github Stats:
 
-<center>
+<div style="text-align:center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamsulapp&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamsulapp&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
-
+</div>
 [website]: https://greentech.id
 [instagram]: https://www.instagram.com/samsul.marif100/
