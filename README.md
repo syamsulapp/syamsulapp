@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools Yang Di Gunakan:
+### Languages and Tools Programming Yang Di Gunakan:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,7 +45,7 @@
 
 ### My Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamsulapp)](https://github.com/syamsulapp/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
 
 [website]: https://greentech.id
 [instagram]: https://www.instagram.com/samsul.marif100/
