@@ -45,7 +45,7 @@
 
 ### My Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamsulapp&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamsulapp&show_icons=true&theme=tokyonight)
 
 [website]: https://greentech.id
 [instagram]: https://www.instagram.com/samsul.marif100/
