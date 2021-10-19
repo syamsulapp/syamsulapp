@@ -45,7 +45,7 @@
 
 ### My Github Stats:
 
-<div style="text-align:center">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syamsulapp&show_icons=true&theme=tokyonight)
 
