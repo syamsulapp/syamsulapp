@@ -4,7 +4,7 @@
 
 ##  I'am Web Developer , And Mobile Programming
 
-- 🔭 I just launched my first course: Dicoding And W3schols
+- 🔭 I just launched my first course: Dicoding W3schols dan Freecodecamp
 - 👯 My Job in greentech studio and make relational job with other people
 - 🥅 Goals: Contribute more to Open Source projects and improve skils in order to fix all project (job)
 
