@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=greentech.id&style=for-the-badge&url=https%3A%2F%2Fgreentech.id)](https://greentech.id)
 
-##  I'am Web Developer , And Mobile Programming
+##  Back-end Developer, And Mobile Developer
 
 - 🔭 I just launched my first course: Dicoding W3schols dan Freecodecamp
 - 👯 My Job in greentech studio and make relational job with other people
