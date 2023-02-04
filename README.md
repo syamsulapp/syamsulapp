@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=uiconnect.id&style=for-the-badge&url=https%3A%2F%2Fgreentech.id)](https://home.uiconnect.id)
 
-##  Back-end Developer, And API Developer
+##  Full Stack Developer (PHP, JS)
 
 - 🔭 I just launched my first course: Dicoding W3schols dan Freecodecamp
 - 👯 My Job in greentech studio and make relational job with other people
