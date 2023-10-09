@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Syamsul Marif[syamsulapp][website] 👋
 
-[![Website](https://img.shields.io/website?label=uiconnect.id&style=for-the-badge&url=https%3A%2F%2Fgreentech.id)](https://www.idijakpus.or.id)
+[![Website](https://img.shields.io/website?label=idijakpus.or.id&style=for-the-badge&url=https%3A%2F%2Fidijakpus.or.id)](https://www.idijakpus.or.id)
 
 ##  Full Stack Developer (PHP, JS)
 
