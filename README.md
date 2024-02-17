@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=idijakpus.or.id&style=for-the-badge&url=https%3A%2F%2Fidijakpus.or.id)](https://www.idijakpus.or.id)
 
-##  Full Stack Developer (Laravel(PHP), Vue(JS))
+##  Senior Full Stack Developer (Laravel(PHP), Vue(JS))
 
 - 🔭 I just launched my first course: Dicoding W3schols dan Freecodecamp
 - 👯 My Job in fullstack developer and make relational job with other people
