@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />](https://www.instagram.com/xamppsul/)
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/mohammad-syamsul-ma-rif-48b688170/)
 
 <br />
 
