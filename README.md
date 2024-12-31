@@ -4,7 +4,7 @@
 
 ##  Software Engineer Backend (Laravel(PHP), Go(fiber))
 
-- 🔭 I just launched my first course: Dicoding W3schols dan Freecodecamp
+- 🔭 I just launched my first course: Dicoding W3schols,Freecodecamp and Udemy
 - 👯 My Job in fullstack developer and make relational job with other people
 - 🥅 Goals: Contribute more to Open Source projects and improve skils in order to fix all project (job)
 
