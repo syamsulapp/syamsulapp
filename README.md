@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=idijakpus.or.id&style=for-the-badge&url=https%3A%2F%2Fidijakpus.or.id)](https://www.idijakpus.or.id)
 
-##  Software Engineer (Laravel(PHP), Go(fiber))
+##  Software Engineer Backend (Laravel(PHP), Go(fiber))
 
 - 🔭 I just launched my first course: Dicoding W3schols dan Freecodecamp
 - 👯 My Job in fullstack developer and make relational job with other people
