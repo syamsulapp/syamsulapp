@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />][instagram]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />][[instagram](https://www.instagram.com/xamppsul/)]
 [<img align="left" alt="Linkedin | Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][instagram]
 
 <br />
